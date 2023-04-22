@@ -6,8 +6,11 @@ experiment session. The procedure is safe and straightforward and
 provides minimal risk.
 
 Software Used-Vizard
+
 Language Used-Python
+
 Modeling Software-SketchUp
+
 Technologies Involed-AR/VR, Spatial Navigation, BioSensors
 
 

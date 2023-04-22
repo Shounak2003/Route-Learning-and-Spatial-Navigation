@@ -13,5 +13,7 @@ Modeling Software-SketchUp
 
 Technologies Involed-AR/VR, Spatial Navigation, BioSensors
 
+For the entire file mail me at -way2shounak@gmail.com
+
 
 ![WhatsApp Image 2023-04-22 at 20 19 37](https://user-images.githubusercontent.com/93007487/233791578-2c9c41c0-9f74-4b20-877a-874b1ef8ccbf.jpg)
